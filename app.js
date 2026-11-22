@@ -18,7 +18,7 @@ Certifications:[["2018","C · Sri Venkat Computer Institute","Completed with 98%
 ["—","AWS Certified AI Practitioner","AWS AI certification · Credly badge","d531b6b2-a219-4588-89bd-b9b9a36b6ffd","credly"]],
 Publications:[["2024","Weed Detection and Removal using Robotic Arm with Mask R-CNN · Springer Nature","Research on using a robotic arm to detect and remove weeds in agricultural fields, with Mask R-CNN for image segmentation.","https://link.springer.com/chapter/10.1007/978-3-031-78918-2_4"],
 ["2024","Deepfake Content Detection using Deep Learning Techniques · IEEE","Multimodal deep learning to improve accuracy in identifying manipulated visual and audio content.","https://ieeexplore.ieee.org/document/11081378"]],
-Skills:["Python","Java","C++","HTML5","CSS3","JavaScript","React.js","Angular.js","Node.js","PHP","Bootstrap","Spring Boot","MongoDB","Cloud Technologies","Flask","Figma","GenAI","RAG","Docker","Kubernetes","System Administration","Network Administration","Agentic AI"],
+Skills:["Python","Java","C++","HTML5","CSS3","JavaScript","React.js","Angular.js","Node.js","PHP","Bootstrap","Spring Boot","MongoDB","Cloud Technologies","Flask","Figma","GenAI","RAG","Docker","Kubernetes","System Administration","Network Administration","Agentic AI","Terraform"],
 Achievements:[["2023","Ideathon","Placed 3rd among 10 participants in the idea contest and received a merit certificate."],
 ["2023","WebPulseHack 2.0","8-hour internal college hackathon: designed a student feedback form dashboard with HTML, CSS, JavaScript, Node.js and MongoDB."],
 ["2024","Smart India Hackathon","Participated at the national level in the Smart India Hackathon."]]};
